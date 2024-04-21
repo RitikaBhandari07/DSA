@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713613449 source:c:\users\ritika\desktop\ritikads\ritikads\main.c
+	<stdio.h>
+	<stdlib.h>
+
